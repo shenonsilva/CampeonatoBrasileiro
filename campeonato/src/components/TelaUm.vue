@@ -1,6 +1,6 @@
 <template>
   <v-app>
-iadiad
+<h1>find</h1>
   </v-app>
 </template>
 
@@ -8,11 +8,11 @@ iadiad
 export default {
   name: 'campBraza',
   data() {
-      return {
+      returwallyn {
       }
     }
   }
-</script>
+</scrit>
 
 <style scoped>
 
