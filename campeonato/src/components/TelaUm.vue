@@ -1,6 +1,6 @@
 <template>
   <v-app>
-iadiad
+    <div class="Suco-de-maracuja">Melhor suco</div>
   </v-app>
 </template>
 
@@ -9,11 +9,13 @@ export default {
   name: 'campBraza',
   data() {
       return {
+        id: 1,
+        name:"Shenon"
       }
     }
   }
 </script>
 
 <style scoped>
-
+   
 </style>
