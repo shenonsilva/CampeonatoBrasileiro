@@ -1,12 +1,13 @@
 <template>
   <v-app>
-    <div class="Suco-de-maracuja">Melhor suco</div>
+    <div class="Suco-de-maracuja">Melhor suco<div>
+<h1>find</h1>
   </v-app>
 </template>
-
+ 
 <script>
 export default {
-  name: 'campBraza',
+  name: 'camBraza',
   data() {
       return {
         id: 1,
